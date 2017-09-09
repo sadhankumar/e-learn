@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-fa82967076f9aba391c31a88c9d2f32eeb9b225c.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-f206eeb0a7b5546e248ca94f9d6a635e4b534d8b.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-8c7b6e82ff5325729e0286a48731dde4065d8f03.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-6cbb4d35a326c12b0ad193fe69b9aea43be0c445.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-4563e29a7245b6f10b83650a866d88f0d8d719fa.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-83641727cacb9eccb98dae2612adae69b69fe4dd.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-a2f70632abb2e9aa31c5e0f07e7e24091d5c1fc4.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-ba1c88b2658070c751647c4ec1d4efb3279b0d88.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-107f32f79bf654291aeaf107857aef74cdf8c21b.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-4864bb311c8382f328c556253d09007fb4768d8e.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-52aeee04fbaf5ef4924eef71684f5ed5bfaa4977.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-bf85bb8ae7ad83324b2744261d1cad217f7d348a.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-45994596f87319fd5389e754b7b5bd19e9eb3315.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1-538b46d70e781b33d59ef24b48ca53776039ad5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sadhan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1-70e569d5a9d36179ca92790480807139feaf680b.jar" />
+    </item>
+    <item
+        jar="F:\LoginRegister\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\LoginRegister\app\build\intermediates\pre-dexed\debug\classes-45644625adad5f23135289356910efdd69479de1.jar" />
+    </item>
+
+</items>
